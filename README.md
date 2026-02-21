@@ -1,26 +1,8 @@
 <div align="center">
 
-<pre>
-<span style="background: linear-gradient(90deg, #a855f7 0%, #ec4899 50%, #f97316 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███████╗██████╗ ███████╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ██╗       ║
-║   ██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝██║  ██║██╔══██╗████╗  ██║       ║
-║   ███████╗██████╔╝█████╗  █████╗  ███████╗███████║███████║██╔██╗ ██║       ║
-║   ╚════██║██╔══██╗██╔══╝  ██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╗██║       ║
-║   ███████║██║  ██║███████╗███████╗███████║██║  ██║██║  ██║██║ ╚████║       ║
-║   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
-║                                                                              ║
-║                ██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗                   ║
-║                ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝                   ║
-║                ██████╔╝█████╗  ██║  ██║██║  ██║ ╚████╔╝                    ║
-║                ██╔══██╗██╔══╝  ██║  ██║██║  ██║  ╚██╔╝                     ║
-║                ██║  ██║███████╗██████╔╝██████╔╝   ██║                      ║
-║                ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═════╝    ╚═╝                      ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝</span>
-</pre>
+# hey there, i'm **Sreeshan Reddy** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-### Full Stack Developer | AI/ML Enthusiast
+### full-stack dev • ai/ml enthusiast • coder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeshan-reddy-34064b320/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshanreddy26@gmail.com)
