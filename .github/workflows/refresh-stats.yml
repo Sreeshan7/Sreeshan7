@@ -1,0 +1,39 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Update Cache Bust Token
+        run: |
+          # Generate timestamp for cache busting
+          TIMESTAMP=$(date +%s)
+          
+          # Update README.md with new cache bust token
+          sed -i "s/cache_bust=CACHE_BUST_TOKEN/cache_bust=$TIMESTAMP/g" README.md
+          
+          # Check if there are changes
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🔄 Auto-refresh GitHub stats [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
