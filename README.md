@@ -90,7 +90,7 @@ focus:
 ## 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sreeshan7&show_icons=true&theme=radical&hide_border=false&border_color=6c71c4&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sreeshan7&theme=radical&hide_border=false&border=6c71c4&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6e00&currStreakLabel=00f7f7&sideNums=ffffff&sideLabels=00f7f7&dates=8b949e&cache_bust=CACHE_BUST_TOKEN" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sreeshan7&theme=radical&hide_border=false&border=6c71c4&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6e00&currStreakLabel=00f7f7&sideNums=ffffff&sideLabels=00f7f7&dates=8b949e&cache_bust=1771852186" width="49%" />
 
 </div>
 
